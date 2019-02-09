@@ -3,9 +3,44 @@ import Wordpress2016 from "typography-theme-wordpress-2016"
 
 Wordpress2016.overrideThemeStyles = () => {
   return {
+    "html": {
+      font: ["'Roboto'", 'serif'].join(', '),
+    },
+
+    "body": {
+      fontFamily: ["'Roboto'", 'serif'].join(', '),
+      lineHeight: "1.5",
+      fontSize: "1.1rem",
+    },
+
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
     },
+
+    ".gatsby-resp-image-wrapper": {
+      marginTop: "1em",
+      marginBottom: "1em",
+      maxWidth: "100%",
+    },
+
+    "h1, h2, h3, h4, h5, h6": {
+      marginTop: "1.5em",
+      marginBottom: ".5em",
+      fontFamily: ["'Roboto'", 'serif'].join(', '),
+    },
+
+    "p": {
+      marginBottom: "1em",
+    },
+
+    "blockquote": {
+      fontSize: "1em",
+      borderColor: "hsla(0, 0%, 0%, 0.59)",
+    },
+
+    "li": {
+      marginBottom: ".5em",
+    }
   }
 }
 
