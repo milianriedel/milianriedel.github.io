@@ -9707,13 +9707,9 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typeface-merriweather@0.0.54:
-  version "0.0.54"
-  resolved "https://registry.yarnpkg.com/typeface-merriweather/-/typeface-merriweather-0.0.54.tgz#a6b694d93c7ac432e26e8d7797a19afe83844186"
-
-typeface-montserrat@0.0.54:
-  version "0.0.54"
-  resolved "https://registry.yarnpkg.com/typeface-montserrat/-/typeface-montserrat-0.0.54.tgz#3fc338db6428d73485b75aa7bd2af8c9a55b9ab3"
+typeface-roboto-multilang@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/typeface-roboto-multilang/-/typeface-roboto-multilang-1.0.0.tgz#b5282fe5856a6bd907070ad3454c667d0121bda2"
 
 typography-breakpoint-constants@^0.16.18:
   version "0.16.18"

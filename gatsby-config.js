@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Milian Riedel`,
+    author: `Milian Riedel`,
+    description: `Go away.`,
+    image: 'asds',
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `milianriedel`,
     },
   },
   plugins: [
@@ -30,7 +31,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 630,
+              quality: 100,
             },
           },
           {
@@ -57,7 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Milian Riedel`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,

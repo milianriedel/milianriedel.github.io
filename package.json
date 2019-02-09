@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "milianriedel.com",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Go away",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Milian Riedel <milian.riedel@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -30,8 +30,7 @@
     "react-dom": "^16.8.0",
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.18",
-    "typeface-merriweather": "0.0.54",
-    "typeface-montserrat": "0.0.54",
+    "typeface-roboto-multilang": "^1.0.0",
     "typography": "^0.16.18",
     "typography-theme-wordpress-2016": "^0.16.18"
   },
