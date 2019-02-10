@@ -38,6 +38,10 @@ Wordpress2016.overrideThemeStyles = () => {
       borderColor: "hsla(0, 0%, 0%, 0.59)",
     },
 
+    "ul, ol": {
+      marginLeft: "1.75rem",
+    },
+
     "li": {
       marginBottom: ".5em",
     }
