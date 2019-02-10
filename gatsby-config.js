@@ -53,8 +53,6 @@ module.exports = {
             options: {
               trackingId: "UA-134171672-1",
               head: false,
-              sampleRate: 5,
-              siteSpeedSampleRate: 10,
             },
           },
           `gatsby-remark-prismjs`,
@@ -65,12 +63,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
