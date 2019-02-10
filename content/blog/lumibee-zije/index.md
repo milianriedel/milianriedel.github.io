@@ -57,7 +57,7 @@ Zavrhnuto. Moc práce.
 
 Tomáš původně vyhrožoval, že iOS vývoj ho zas tak moc nebaví a hotové to bude možná někdy na jaře. Ale nakonec ho to stálo jen 20 nocí a 61 commitů.
 
-Verze 1.7 Lumibee je už v App Store a pokud ji ještě nemáte v iPhonu, tak rychle napravit! A že jste to přečetli, tak tady máte 5 redeem kódů (první přijde, první bere a je pak potřeba kliknout a appce na „restore purchases”):
+Verze 1.7 Lumibee je už v App Store a pokud ji ještě nemáte v iPhonu, tak rychle napravit! A že jste to přečetli, tak tady máte 5 redeem kódů (první přijde, první bere a je pak potřeba kliknout v appce na „restore purchases”):
 
 == redeem kódy ==
 
