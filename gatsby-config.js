@@ -48,15 +48,6 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-              trackingId: "UA-134171672-1",
-              head: false,
-              sampleRate: 5,
-              siteSpeedSampleRate: 10,
-            },
-          },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
@@ -68,7 +59,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: "UA-134171672-1",
       },
     },
     `gatsby-plugin-feed`,
