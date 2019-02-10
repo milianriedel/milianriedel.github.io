@@ -9,7 +9,8 @@ Občas se mě někdo zeptá, jak to jde s Lumibee.
 
 Lumibee jsme dali s Tomášem v létě 2017 definitivně zdarma, páč na marketing jsme leví a bylo smutné sledovat, jak noví uživatelé přibývají po jednom, tu po dvou za den.
 
-Lumibee si začalo od té doby žít vlastním životem a nijak zvlášť jsme ho nesledovali. Uživatelé ze začátku naskakovali po stovkách až tisícovkách, ale po pár týdnech to opadlo. Sem tam nás Apple zařadil do nějakého ([výběru](https://itunes.apple.com/us/story/id1355070858), což přineslo další uživatele, ale nic dechberoucího.
+Lumibee si začalo od té doby žít vlastním životem a nijak zvlášť jsme ho nesledovali. Uživatelé ze začátku naskakovali po stovkách až tisícovkách, ale po pár týdnech to opadlo. Sem tam nás Apple zařadil do nějakého [výběru](https://itunes.apple.com/us/story/id1355070858), což přineslo další uživatele, ale nic dechberoucího.
+
 Alespoň pozitivní recenze pomalu přibývaly:
 
 ![Recenze v App Store](./appstore-reviews.jpg)
