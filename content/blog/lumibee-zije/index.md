@@ -3,7 +3,6 @@ title: Lumibee (zatím) žije
 date: "2019-02-09T22:12:03.284Z"
 description: Co se děje s Lumibee?
 image: "./cover.jpg"
-slug: lumibee-zije
 ---
 
 ![Promo](./cover.jpg)
