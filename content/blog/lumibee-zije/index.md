@@ -36,6 +36,7 @@ Vybrali jsme si druhou možnost s tím, že za to uživatelé dostanou nové fil
 
 To byla ta jednoduchá část. Teď je to potřeba převést nějak do kódu a iOS development je pakárna.
 Tomáš z toho ale byl tak nadšenej, že si nakreslil obrazovku pro in-appy. A jelikož bylo po obědě a mně se ještě nechtělo pracovat (rozuměj, nemohl jsem to nechat v tomhle stavu), tak jsem otevřel Sketch a překreslil to do finální podoby.
+
 ![Wireframe a mockup obrazovky](./wireframe-mockup.jpg)
 
 ## Návrh obrazovky:
@@ -56,9 +57,13 @@ Další možnost je obyčejnej carousel a rozhodovali jsme se, jestli tam dáme 
 
 Zavrhnuto. Moc práce.
 
-## A teď už to jen naprogramovat
+## Teď už to jen naprogramovat
 
 Tomáš původně vyhrožoval, že iOS vývoj ho zas tak moc nebaví a hotové to bude možná někdy na jaře. Ale nakonec ho to stálo jen 20 nocí a 61 commitů.
+
+## A takhle to vypadá
+
+![Finální podoba](./final.jpg)
 
 Verze 1.7 Lumibee je už v App Store a pokud ji ještě nemáte v iPhonu, tak rychle napravit! A že jste to přečetli, tak tady máte 5 redeem kódů (první přijde, první bere a je pak potřeba kliknout v appce na „restore purchases”):
 
@@ -66,4 +71,4 @@ Verze 1.7 Lumibee je už v App Store a pokud ji ještě nemáte v iPhonu, tak ry
 
 Článek časem doplním o nějaká čísla, jestli si to vůbec někdo koupil. Případně pokud někoho bude cokoliv zajímat ohledně Lumibee, tak to sem přidám.
 
-A samozřejmě sledujte [Lumibee](https://www.instagram.com/lumibeephoto/), sledujte [Radka](https://www.instagram.com/radek_kudlacek/) a podpořte vývoj Lumibee.
+A samozřejmě sledujte [Lumibee](https://www.instagram.com/lumibeephoto/), sledujte [Radka](https://www.instagram.com/radek_kudlacek/) a [podpořte vývoj Lumibee](https://itunes.apple.com/us/app/lumibee-fast-photo-editor/id1072221149?mt=8).
