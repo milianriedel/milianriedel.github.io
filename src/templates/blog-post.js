@@ -11,8 +11,15 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title={post.frontmatter.title} description={post.frontmatter.description} image={post.frontmatter.image.childImageSharp.resize.src} />
+      <Layout
+        location={this.props.location}
+        title={siteTitle}
+      >
+        <SEO
+          title={post.frontmatter.title}
+          description={post.frontmatter.description}
+          image={post.frontmatter.image.childImageSharp.resize.src}
+        />
 
         <article
           style={{
