@@ -20,7 +20,7 @@ class BlogIndex extends React.Component {
           alignItems: `center`,
           minHeight: `100vh`
         }}>
-          <h1>Go away.</h1>
+          <h1 style={{margin: `0`}}>Go away.</h1>
         </div>
       </Layout>
     )
