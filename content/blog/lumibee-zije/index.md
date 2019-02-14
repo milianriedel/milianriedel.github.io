@@ -1,6 +1,6 @@
 ---
 title: Lumibee žije
-date: "2019-02-014T22:12:03.284Z"
+date: "2019-02-14T22:12:03.284Z"
 description: Co se děje s Lumibee?
 image: "./cover.jpg"
 ---
