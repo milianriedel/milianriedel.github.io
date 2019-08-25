@@ -33,6 +33,14 @@ Wordpress2016.overrideThemeStyles = () => {
       marginBottom: "1em",
     },
 
+    "p:empty": {
+      display: "none",
+    },
+
+    "iframe": {
+      marginBottom: 0,
+    },
+
     "blockquote": {
       fontSize: "1em",
       borderColor: "hsla(0, 0%, 0%, 0.59)",
