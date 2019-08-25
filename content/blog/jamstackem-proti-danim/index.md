@@ -24,7 +24,7 @@ Původní web byl zbytečně komplikovanej se spoustou podstránek, kde byla nap
 Jelikož byl rozpočet dost omezenej, tak jsem dal grafiku dohromady za jeden páteční večer a za sobotu jsem měl kostru webu hotovou. To bylo vlastně největší překvapení, jak rychle se v Gatsby dá postavit web, kterej si všechna data tahá z markdown souborů (aby mohl být později napojen na CMS).
 
 ### Kalendář
-Jeden z požadavků byl graf s jednotlivými roky a počtem dnů, na které vycházel Den daňové svobody. Toho jsem se asi bál nejvíc. Použít nějakou React knihovnu na vytváření grafů?. Hmm. Raději ne. Nejjednodušší řešení bývá občas nejtěžší vymyslet. Ale po pár hodinách trápení s knihovnami mi to došlo.
+Jeden z požadavků byl graf s jednotlivými roky a počtem dnů, na které vycházel Den daňové svobody. Toho jsem se asi bál nejvíc. Použít nějakou React knihovnu na vytváření grafů? Hmm. Raději ne. Nejjednodušší řešení bývá občas nejtěžší vymyslet. Ale po pár hodinách trápení s knihovnami mi to došlo.
 
 Do hlavičky markdown souboru s tiskovou zprávou přidám položku s počtem dní pro stát a pak jenom vypíšu seznam tiskových zpráv, kde výšku grafu v pixelech udělá počet dní pro stát. Voilà. A graf bude zároveň sloužit jako rozcestník pro jednotlivé tiskové zprávy.
 
@@ -49,5 +49,6 @@ Lze i povolit takzvaný redakční mód, kdy se při vytvoření příspěvku vy
 ## Závěr
 Použít Gatsby s Netlify a jejich CMS bylo od první chvíle jednoduché a komunita je velká a skutečně žije, takže většinu problémů už někdo řešil.
 
-Navíc tenhle projekt pomohl při výběru našeho stacku v [Blueberry](https://www.blueberry.io/) při vytváření malých a středních webů. Jen Netlify jsme vyměnili za [AWS S3](https://www.blueberry.io/services/development/aws).
-Za mě Gatsby rozhodně doporučuji a těším se, kam se celej stack posune v budoucnu.
+Navíc tenhle projekt pomohl při výběru našeho stacku v [Blueberry](https://www.blueberry.io/) při vytváření malých a středních webů. Jen Netlify jsme vyměnili za [AWS S3](https://www.blueberry.io/services/development/aws) pro hosting a [CircleCI](https://circleci.com/) pro deployment proces.
+
+Za mě tedy Gatsby rozhodně doporučuji a těším se, kam se celej stack posune v budoucnu.
