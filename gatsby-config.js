@@ -50,6 +50,13 @@ module.exports = {
             }
           },
           {
+            resolve: "gatsby-remark-embed-youtube",
+            options: {
+              width: 800,
+              height: 500
+            }
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,

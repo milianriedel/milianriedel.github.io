@@ -17,7 +17,7 @@ Alespoň pozitivní recenze pomalu přibývaly:
 
 ![Recenze v App Store](./appstore-reviews.jpg)
 
-> **Great fast photo editor!** 
+> **Great fast photo editor!**
 > The beauty of Lumibee is its super-efficient user interface.  What a great way to try out filters—just swipe up!  It has all the necessary editing tools one needs for casual photo editing.  Only request is please make it in landscape mode for iPad use.
 
 > **Simple and great!**
@@ -71,14 +71,16 @@ V neděli večer přišel zamítavej mail. V pondělí další. Nakonec se jim n
 
 Verze 1.7 [Lumibee už je v App Store]((https://itunes.apple.com/us/app/lumibee-fast-photo-editor/id1072221149?mt=8)) a pokud ji ještě nemáte v iPhonu, tak to rychle napravte! A že jste to přečetli, tak tady máte 4 redeem kódy (první přijde, první bere a je pak potřeba kliknout v appce na „restore purchases”):
 
-KY9A9PFHAHXP
+~~KY9A9PFHAHXP~~
 
-HAYRYWMKYLT3
+~~HAYRYWMKYLT3~~
 
-FJ7RLLJR3KKN
+~~FJ7RLLJR3KKN~~
 
-7HMX7NF6FP9N
+~~7HMX7NF6FP9N~~
 
 Článek časem doplním o nějaká čísla, jestli si to vůbec někdo koupil. Případně pokud někoho bude cokoliv zajímat ohledně Lumibee, tak to sem přidám.
 
 A samozřejmě sledujte [Lumibee na instagramu](https://www.instagram.com/lumibeephoto/), sledujte tam i [Radka](https://www.instagram.com/radek_kudlacek/) a [podpořte vývoj Lumibee](https://itunes.apple.com/us/app/lumibee-fast-photo-editor/id1072221149?mt=8). A pokud vás aplikace baví, tak o ni řekněte dál.
+
+`youtube:https://www.youtube.com/embed/LwgwI_Inglo`
