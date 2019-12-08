@@ -3,26 +3,26 @@ module.exports = {
     title: `Milian Riedel`,
     author: `Milian Riedel`,
     description: `Go away.`,
-    image: 'asds',
+    image: "asds",
     siteUrl: `https://milianriedel.com/`,
     social: {
-      twitter: `milianriedel`,
-    },
+      twitter: `milianriedel`
+    }
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
+        name: `blog`
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/assets`,
-        name: `assets`,
-      },
+        name: `assets`
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -32,8 +32,8 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
-              quality: 100,
-            },
+              quality: 100
+            }
           },
           {
             resolve: "gatsby-remark-external-links",
@@ -59,20 +59,20 @@ module.exports = {
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
+              wrapperStyle: `margin-bottom: 1.0725rem`
+            }
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
-        ],
-      },
+          `gatsby-remark-smartypants`
+        ]
+      }
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-134171672-1",
-      },
+        trackingId: "UA-134171672-1"
+      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -83,19 +83,19 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
-      },
+        icon: `content/assets/favicon.png`
+      }
     },
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
+        pathToConfigModule: `src/utils/typography`
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-feed`,
     `gatsby-plugin-offline`,
-    `gatsby-plugin-react-helmet`,
-  ],
-}
+    `gatsby-plugin-react-helmet`
+  ]
+};
